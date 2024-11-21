@@ -1,0 +1,4 @@
+awslambda/EmailVerificationLambda.class
+MockContext.class
+LambdaTest.class
+MockLambdaLogger.class
